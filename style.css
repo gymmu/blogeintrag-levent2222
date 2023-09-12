@@ -8,4 +8,27 @@ body {
   margin: 0;
   background-color: lightgray;
   font-family: sans-serif;
+
+  background-color:whitesmoke;
 }
+
+  h1 {
+    color: rgb(47, 15, 173);
+    text-align: center;
+  }
+  h2 {
+    color: rgb(0, 0, 0);
+    text-align:center;
+  }
+
+  h5 {
+    color: rgb(0, 0, 1);
+    text-align: center;
+  }
+  .bilder {
+    text-align: center;
+  }
+
+  .bilder > img {
+    width: 100%;
+  }
