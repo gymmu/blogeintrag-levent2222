@@ -59,3 +59,9 @@ li a {
 li a:hover {
   background-color: #6a3f3f;
   }
+  h3 {
+text-align: center
+background-color: cyan;
+  border: 2px solid black;
+
+  }
