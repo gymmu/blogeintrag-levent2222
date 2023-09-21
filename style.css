@@ -66,3 +66,8 @@ background-color: cyan;
   border: 2px solid black;
 
   }
+
+  .Text {
+    margin: 10px;
+    padding: 5px;
+  }
